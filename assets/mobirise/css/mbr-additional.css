@@ -1461,8 +1461,8 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #9fe870;
-  background-color: #9fe870;
+  color: #f92c50;
+  background-color: #f92c50;
   width: 0.5em;
   height: 0.5em;
   top: 0.4em;
@@ -1485,7 +1485,7 @@ a {
   counter-increment: myCounter;
   content: counter(myCounter);
   transition: all .2s;
-  color: #9fe870;
+  color: #f92c50;
   display: flex;
   align-items: center;
   justify-content: center;
