@@ -1,12 +1,12 @@
 {
   "settings": {
     "name": "trace line engineering",
-    "currentPage": "#O nas.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
       "styling": {
-        "primaryColor": "#385493",
+        "primaryColor": "#f92c50",
         "secondaryColor": "#ffd7ef",
         "successColor": "#3a341c",
         "infoColor": "#320707",
